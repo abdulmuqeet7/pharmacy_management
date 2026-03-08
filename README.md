@@ -1,4 +1,4 @@
-# MedHelp - Pharmacy Management System
+# Pharmacy Management System
 
 A comprehensive, multi-role pharmacy management system built with PHP and MySQL that facilitates medicine sales, lab test bookings, and order management with integrated delivery tracking.
 
