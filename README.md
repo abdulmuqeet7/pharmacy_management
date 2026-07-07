@@ -211,3 +211,23 @@ See `database_design.jpeg` for complete schema.
 
 **Add New Role**: Create role folder, dashboard PHP with session check, update login redirect  
 **Add New Feature**: Create PHP file in module folder, add session validation, implement database logic
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/home.png)
+
+### 👤 Account Page
+![Account Page](screenshots/account.png)
+
+### 💊 Medicines
+![Medicines](screenshots/medicine.png)
+
+### 🧪 Lab Test Booking
+![Lab Test](screenshots/lab_test.png)
+
+### 📄 Lab Report
+![Lab Report](screenshots/lab_report.png)
+
+### 🗄️ Database Design (ER Diagram)
+![Database Design](database_design.jpeg)
